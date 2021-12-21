@@ -12,6 +12,7 @@ System.out.println("odd numbers");
 While (count<=a)
 {
 System.out.println(n+",");
+
 n=n+2;
 count++;
 }
